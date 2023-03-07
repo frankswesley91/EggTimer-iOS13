@@ -6,7 +6,7 @@
 //  Copyright © 2019 The App Brewery. All rights reserved.
 //
 //Enhancements
-//1. Well Done Egg? if well done, double the times that the eggs will cook.
+//1.    Wes Well Done Egg? if well done, double the times that the eggs will cook.
 //2. If switch is on than another if else statement generates a dancing bacond array activiated by a button.If the swithc is off, a message of the label says the bacon doesnt dance for you
 
 import UIKit
